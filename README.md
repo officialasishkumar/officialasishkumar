@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialasishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="officialasishkumar" /> </p>
 
-- 📫 How to reach me **Charon#3571**
+- 📫 How to reach me **Charon#3571** (On Discord)
 
 
 <h3 align="left">Languages and Tools:</h3>
