@@ -2,32 +2,32 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asish--kr-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/asish-kr)
 
-Open source contributor working across Go, Java, and Python — primarily on Kubernetes, developer tooling, and testing infrastructure.
+Software engineer working across Go, Java, and Python — primarily on Kubernetes, developer tooling, and testing infrastructure.
 
 #### Contributing to
 
-- **[Electron](https://github.com/electron)** - Native addon destroy method docs to prevent hang on quit
-- **[Keycloak](https://github.com/keycloak)** - OID4VCI @context exclusion for non-JSON-LD formats, pin actions/checkout by commit SHA
-- **[Dapr](https://github.com/dapr)** - Placement VirtualNodesCache.setHashes hashMap reuse
-- **[Keploy](https://github.com/keploy)** - gRPC noise support and sanitization, MySQL parser and HTTP mock matching, SSE port/protocol config and streaming HTTP capture, MongoDB v2 migration, secret management via secret.yaml, coverage-based deduplication and normalization, replay mock prioritization, hooks implementation, report command enhancements, Windows/Python CI pipelines, macOS sudo re-exec handling
-- **[QuestDB](https://github.com/questdb)** - ALTER COLUMN type conversion fix between DECIMAL and VARCHAR/STRING
-- **[vis.gl](https://github.com/visgl)** - deck.gl: TextBackgroundLayer rounded rect fragment discard, IconLayer texture copy command buffer submission; loaders.gl: @math.gl/types explicit schema-utils declaration; react-google-maps: avoid static useInsertionEffect imports in hooks
-- **[Kepler.gl](https://github.com/keplergl)** - Incorrect boolean parsing fix for yes/no string values
-- **[Cadence Workflow](https://github.com/cadence-workflow)** - NewBudgetManager nil logger panic fix, LinearIterator float division step distribution, domain cache refresh race condition, DirectChooser grpc goroutine leak, fuzz mapper map struct handling
-- **[KubeVela](https://github.com/kubevela)** - Rename statusDetails CUE field to details to match Status struct
-- **[Apache](https://github.com/apache)** - Hudi: Hadoop WritableUtils VarInt encoding in HFile block index writer
-- **[pgmpy](https://github.com/pgmpy)** - Stage tutorial notebooks for docs builds
-- **[Envoy Proxy](https://github.com/envoyproxy)** - Gateway: deprecated warning for gatewayapi clientValidation.optional
-- **[Kagent](https://github.com/kagent-dev)** - Bundled Postgres Helm PSA restricted compliance
-- **[Kube-OVN](https://github.com/kubeovn)** - Preserve VPC policy route next hops during OVN diff
-- **[Academy Software Foundation](https://github.com/AcademySoftwareFoundation)** - OpenImageIO: pass /MANIFEST:NO only to MSVC on Windows builds; OpenCue: rqd default NIMBY lock config option, scheduler dispatch for jobs without OS constraint
-- **[Clusternet](https://github.com/clusternet)** - Nil pointer panic fix when creating CRD resources via ShadowAPI
-- **[Clusterpedia](https://github.com/clusterpedia-io)** - Bump Kubernetes dependencies from 1.31 to 1.32
-- **[Shipwright](https://github.com/shipwright-io)** - Strategic merge patch support for build strategy steps, increased ko build resource limits
-- **[AsyncAPI](https://github.com/asyncapi)** - Modelina: Kotlin/PHP/Scala constraint docs, NAMING_FORMATTER section naming fix, doc highlight and footer polish
-- **[Project Dalec](https://github.com/project-dalec)** - Merge User field in MergeSpecImage
-- **[TARDIS](https://github.com/tardis-sn)** - Refactored Monte Carlo benchmarks, benchmark caching and parameter tuning, benchmark documentation, GitHub Actions benchmark fixes, PR HEAD commit hash handling
-- **[KubeFleet](https://github.com/kubefleet-dev)** - Nil guard for binding map lookup in updaterun execution and stop
-- **[Axem Solutions](https://github.com/axem-solutions)** - DEM: expect block to handle bad parameters in export
+- **[Electron](https://github.com/electron)** [![GitHub stars](https://img.shields.io/github/stars/electron/electron?style=flat&color=gold)](https://github.com/electron) - Native addon destroy method docs to prevent hang on quit
+- **[Keycloak](https://github.com/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat&color=gold)](https://github.com/keycloak) - OID4VCI @context exclusion for non-JSON-LD formats, pin actions/checkout by commit SHA
+- **[Dapr](https://github.com/dapr)** [![GitHub stars](https://img.shields.io/github/stars/dapr/dapr?style=flat&color=gold)](https://github.com/dapr) - Placement VirtualNodesCache.setHashes hashMap reuse
+- **[Keploy](https://github.com/keploy)** [![GitHub stars](https://img.shields.io/github/stars/keploy/keploy?style=flat&color=gold)](https://github.com/keploy) - gRPC noise support and sanitization, MySQL parser and HTTP mock matching, SSE port/protocol config and streaming HTTP capture, MongoDB v2 migration, secret management via secret.yaml, coverage-based deduplication and normalization, replay mock prioritization, hooks implementation, report command enhancements, Windows/Python CI pipelines, macOS sudo re-exec handling
+- **[QuestDB](https://github.com/questdb)** [![GitHub stars](https://img.shields.io/github/stars/questdb/questdb?style=flat&color=gold)](https://github.com/questdb) - ALTER COLUMN type conversion fix between DECIMAL and VARCHAR/STRING
+- **[vis.gl](https://github.com/visgl)** [![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=flat&color=gold)](https://github.com/visgl) - deck.gl: TextBackgroundLayer rounded rect fragment discard, IconLayer texture copy command buffer submission; loaders.gl: @math.gl/types explicit schema-utils declaration; react-google-maps: avoid static useInsertionEffect imports in hooks
+- **[Kepler.gl](https://github.com/keplergl)** [![GitHub stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=flat&color=gold)](https://github.com/keplergl) - Incorrect boolean parsing fix for yes/no string values
+- **[Cadence Workflow](https://github.com/cadence-workflow)** [![GitHub stars](https://img.shields.io/github/stars/cadence-workflow/cadence?style=flat&color=gold)](https://github.com/cadence-workflow) - NewBudgetManager nil logger panic fix, LinearIterator float division step distribution, domain cache refresh race condition, DirectChooser grpc goroutine leak, fuzz mapper map struct handling
+- **[KubeVela](https://github.com/kubevela)** [![GitHub stars](https://img.shields.io/github/stars/kubevela/kubevela?style=flat&color=gold)](https://github.com/kubevela) - Rename statusDetails CUE field to details to match Status struct
+- **[Apache](https://github.com/apache)** [![GitHub stars](https://img.shields.io/github/stars/apache/hudi?style=flat&color=gold)](https://github.com/apache) - Hudi: Hadoop WritableUtils VarInt encoding in HFile block index writer
+- **[pgmpy](https://github.com/pgmpy)** [![GitHub stars](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat&color=gold)](https://github.com/pgmpy) - Stage tutorial notebooks for docs builds
+- **[Envoy Proxy](https://github.com/envoyproxy)** [![GitHub stars](https://img.shields.io/github/stars/envoyproxy/gateway?style=flat&color=gold)](https://github.com/envoyproxy) - Gateway: deprecated warning for gatewayapi clientValidation.optional
+- **[Kagent](https://github.com/kagent-dev)** [![GitHub stars](https://img.shields.io/github/stars/kagent-dev/kagent?style=flat&color=gold)](https://github.com/kagent-dev) - Bundled Postgres Helm PSA restricted compliance
+- **[Kube-OVN](https://github.com/kubeovn)** [![GitHub stars](https://img.shields.io/github/stars/kubeovn/kube-ovn?style=flat&color=gold)](https://github.com/kubeovn) - Preserve VPC policy route next hops during OVN diff
+- **[Academy Software Foundation](https://github.com/AcademySoftwareFoundation)** [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=flat&color=gold)](https://github.com/AcademySoftwareFoundation) - OpenImageIO: pass /MANIFEST:NO only to MSVC on Windows builds; OpenCue: rqd default NIMBY lock config option, scheduler dispatch for jobs without OS constraint
+- **[Clusternet](https://github.com/clusternet)** [![GitHub stars](https://img.shields.io/github/stars/clusternet/clusternet?style=flat&color=gold)](https://github.com/clusternet) - Nil pointer panic fix when creating CRD resources via ShadowAPI
+- **[Clusterpedia](https://github.com/clusterpedia-io)** [![GitHub stars](https://img.shields.io/github/stars/clusterpedia-io/clusterpedia?style=flat&color=gold)](https://github.com/clusterpedia-io) - Bump Kubernetes dependencies from 1.31 to 1.32
+- **[Shipwright](https://github.com/shipwright-io)** [![GitHub stars](https://img.shields.io/github/stars/shipwright-io/build?style=flat&color=gold)](https://github.com/shipwright-io) - Strategic merge patch support for build strategy steps, increased ko build resource limits
+- **[AsyncAPI](https://github.com/asyncapi)** [![GitHub stars](https://img.shields.io/github/stars/asyncapi/modelina?style=flat&color=gold)](https://github.com/asyncapi) - Modelina: Kotlin/PHP/Scala constraint docs, NAMING_FORMATTER section naming fix, doc highlight and footer polish
+- **[Project Dalec](https://github.com/project-dalec)** [![GitHub stars](https://img.shields.io/github/stars/project-dalec/dalec?style=flat&color=gold)](https://github.com/project-dalec) - Merge User field in MergeSpecImage
+- **[TARDIS](https://github.com/tardis-sn)** [![GitHub stars](https://img.shields.io/github/stars/tardis-sn/tardis?style=flat&color=gold)](https://github.com/tardis-sn) - Refactored Monte Carlo benchmarks, benchmark caching and parameter tuning, benchmark documentation, GitHub Actions benchmark fixes, PR HEAD commit hash handling
+- **[KubeFleet](https://github.com/kubefleet-dev)** [![GitHub stars](https://img.shields.io/github/stars/kubefleet-dev/kubefleet?style=flat&color=gold)](https://github.com/kubefleet-dev) - Nil guard for binding map lookup in updaterun execution and stop
+- **[Axem Solutions](https://github.com/axem-solutions)** [![GitHub stars](https://img.shields.io/github/stars/axem-solutions/dem?style=flat&color=gold)](https://github.com/axem-solutions) - DEM: expect block to handle bad parameters in export
 
 *Last updated: 2026-04-09*
