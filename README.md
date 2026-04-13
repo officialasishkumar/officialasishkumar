@@ -4,7 +4,7 @@
 
 Software engineer working across Go, Java, and Python — primarily on Kubernetes, developer tooling, and testing infrastructure.
 
-#### Contributing to
+#### Contributing to (merged PRs)
 
 - **[Electron](https://github.com/electron)** [![GitHub stars](https://img.shields.io/github/stars/electron/electron?style=flat&color=gold)](https://github.com/electron) - Native addon destroy method docs to prevent hang on quit
 - **[ByteDance](https://github.com/bytedance)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance) - Route Windows shell-script targets through Git Bash in deer-flow
