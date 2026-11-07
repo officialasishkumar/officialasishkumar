@@ -10,15 +10,28 @@
 
 </div>
 
-### 💼 Work
+### 📊 Open source, live
 
-| Where | What |
-|---|---|
-| **Deccan AI** · AI Backend Engineer · *2026 – now* | Built [Deccan Vault](https://data.deccan.ai) end to end; AI evaluation pipelines on Kafka + PostgreSQL |
-| **Keploy** · Software Engineer · *2025 – 2026* | MongoDB mock engine, Kubernetes record & replay, test de-duplication for Go and Java |
-| **GSoC '25** · CHAOSS | Contributor analytics for Augur and 8Knot |
-| **GSoC '24** · TARDIS | 30 benchmarks, CI 20% faster |
-| **LFX '24** · KCL | Sparse checkout for kpm |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg"/><img src="assets/stats-light.svg" width="100%" alt="PRs merged, projects, orgs, stars, merged in last 30 days"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/orgs-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/orgs-light.svg"/><img src="assets/orgs-light.svg" width="49%" alt="Top orgs by merged PRs"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg"/><img src="assets/languages-light.svg" width="49%" alt="Merged PRs by language"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"/><img src="assets/activity-light.svg" width="100%" alt="Merged PRs per month"/></picture>
+
+<sub>Refreshed daily from GitHub by a workflow in this repo.</sub>
+
+### 💼 Journey
+
+```mermaid
+flowchart LR
+  subgraph OS["Open source mentorships"]
+    direction TB
+    G24["GSoC '24 · TARDIS<br/>30 benchmarks, CI 20% faster"]
+    L24["LFX '24 · KCL<br/>Sparse checkout for kpm"]
+    G25["GSoC '25 · CHAOSS<br/>Analytics for Augur and 8Knot"]
+  end
+  OS --> K["Keploy · Software Engineer<br/>2025 – 2026<br/>MongoDB mocks, K8s record and replay"]
+  K --> D["Deccan AI · AI Backend Engineer<br/>2026 – now<br/>Deccan Vault, Kafka + Postgres eval pipelines"]
+  style D fill:#2563eb,stroke:#1d4ed8,color:#ffffff
+```
 
 ### 🚀 Building
 
