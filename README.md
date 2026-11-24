@@ -10,8 +10,6 @@
 
 </div>
 
-<sub>Refreshed daily from GitHub by a workflow in this repo.</sub>
-
 ### 💼 Journey
 
 ```mermaid
