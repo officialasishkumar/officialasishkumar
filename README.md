@@ -10,12 +10,6 @@
 
 </div>
 
-### 📊 Open source, live
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg"/><img src="assets/stats-light.svg" width="100%" alt="PRs merged, projects, orgs, stars, merged in last 30 days"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/orgs-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/orgs-light.svg"/><img src="assets/orgs-light.svg" width="49%" alt="Top orgs by merged PRs"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg"/><img src="assets/languages-light.svg" width="49%" alt="Merged PRs by language"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"/><img src="assets/activity-light.svg" width="100%" alt="Merged PRs per month"/></picture>
-
 <sub>Refreshed daily from GitHub by a workflow in this repo.</sub>
 
 ### 💼 Journey
